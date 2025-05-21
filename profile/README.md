@@ -1,6 +1,6 @@
 # Welcome to MOVTIGROUP’s GitHub Organization
 
-![MOVTIGROUP Logo](https://avatars.githubusercontent.com/u/207718510?s=400&u=f91587a20d0bc4d4bcd8711c1dc348575a75388f&v=4)
+![MOVTIGROUP Logo](https://raw.githubusercontent.com/movtigroup/.github/refs/heads/main/img/M_20250519_030053_0000.jpg)
 
 This repository serves as the central hub for MOVTIGROUP’s GitHub organizational resources. It houses our community guidelines, issue templates, and other essential files that ensure consistency and professionalism across all our projects.
 
