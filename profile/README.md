@@ -48,7 +48,7 @@ This `.github` repository contains a curated set of resources to streamline our 
 - **Issue & Pull Request Templates:** Standardized formats for reporting issues and suggesting enhancements.
 - **Code of Conduct:** Policies designed to maintain a respectful and productive community environment.
 
-![Design Philosophy](https://movtigroup.ir/design-philosophy.png)
+![Design Philosophy](https://raw.githubusercontent.com/movtigroup/.github/refs/heads/main/img/copilot_image_1747818119364.jpeg)
 
 We welcome contributions from developers, designers, and enthusiasts who share our passion for technological excellence.
 
