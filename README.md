@@ -10,7 +10,7 @@ This repository serves as the central hub for MOVTIGROUP’s GitHub organization
 
 MOVTIGROUP is a forward-thinking technology company dedicated to revolutionizing the digital landscape. We specialize in crafting innovative web designs and robust digital solutions that deliver exceptional user experiences. Our projects emphasize modern aesthetics, secure and scalable technology, and a steadfast commitment to transparency. While our public repositories highlight our visual brand identity—including website templates and design assets—the underlying operational code is maintained securely in private repositories.
 
-![Innovative Web Design](https://movtigroup.ir/design-concept.jpg)
+![Innovative Web Design](img/copilot_image_1747818119364.jpeg)
 
 ---
 
