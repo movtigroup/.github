@@ -1,4 +1,4 @@
-# Welcome to MOVTIGROUP’s GitHub Organization
+# Welcome to MOVTI GROUP’s GitHub Organization
 
 ![MOVTIGROUP Logo](https://raw.githubusercontent.com/movtigroup/.github/refs/heads/main/img/M_20250519_030053_0000.jpg)
 
